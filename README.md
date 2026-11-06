@@ -15,3 +15,4 @@ Aplikasi web dashboard interaktif berbasis **Streamlit** dan **Plotly** dengan a
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+link live dashboard : https://kasus-1-operasional-penjualan-ntwsidtkdrm7v29gn8tck2.streamlit.app/
